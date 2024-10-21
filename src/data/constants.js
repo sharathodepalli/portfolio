@@ -9,7 +9,7 @@ export const Bio = {
     description:
       "I am a motivated and versatile individual with a strong background in software engineering. Passionate about learning and continuous improvement, I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make meaningful contributions and achieve great things.",
     github: "https://github.com/sharathodepalli",
-    resume: "https://drive.google.com/file/d/1fADsdlokyYGmEGom53lglKvd7eQyatEf/view?usp=share_link",
+    resume: "https://drive.google.com/file/d/1QL2m4ZpSFVhU_VONhmKUcKzi8UGSQ3hJ/view?usp=share_link",
     linkedin: "https://www.linkedin.com/in/sharath-chandra-odepalli-7925a5175",
   };
   
